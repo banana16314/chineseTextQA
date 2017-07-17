@@ -1,5 +1,5 @@
-training.data develop.data sample.data 是另一个问题数据集
-work.ipynb是解决的代码
+training.data develop.data sample.data 是课程老师给的一个问题数据集
+work.ipynb是解决课程实验的代码
 自然语言实验报告.docx是该代码的相关说明
 
 文件BoP.*
